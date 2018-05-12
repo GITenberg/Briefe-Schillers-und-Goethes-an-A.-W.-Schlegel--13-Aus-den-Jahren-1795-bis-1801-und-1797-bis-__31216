@@ -1,0 +1,52 @@
+_repo: Briefe-Schillers-und-Goethes-an-A.-W.-Schlegel--13-Aus-den-Jahren-1795-bis-1801-und-1797-bis-__31216
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Schlegel, August Wilhelm von
+    alias: Von Schlegel, August Wilhelm
+    birthdate: 1767
+    deathdate: 1845
+    gutenberg_agent_id: '2356'
+    url: http://www.gutenberg.org/2009/agents/2356
+    wikipedia: http://en.wikipedia.org/wiki/August_Wilhelm_von_Schlegel
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Friedrich von
+    - Schiller, Johann Christoph Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+  - agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31216'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832'
+- !lcsh 'Schlegel, August Wilhelm, 1767-1845'
+- !lcsh 'Schiller, Friedrich, 1759-1805'
+- !lcc 'PT'
+title: "Briefe Schillers und Goethes an A. W. Schlegel\r\nAus den Jahren 1795 bis\
+  \ 1801, und 1797 bis 1824, nebst einem Briefe Schlegels an Schiller"
+url: http://www.gutenberg.org/ebooks/31216
