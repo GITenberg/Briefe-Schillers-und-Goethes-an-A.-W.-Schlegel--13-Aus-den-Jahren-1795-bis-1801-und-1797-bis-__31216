@@ -33,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/586
     wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31216#Briefe-Schillers-und-Goethes-an-A.-W.-Schlegel--13-Aus-den-Jahren-1795-bis-1801-und-1797-bis-_
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2010-02-08'
 gutenberg_type: Text
